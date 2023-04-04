@@ -1,0 +1,17 @@
+pertama kali
+
+> docker-compose up airflow-init
+
+
+ctrl-c
+
+> docker-compose down
+
+
+next, mau jalankan
+
+> docker-compose up
+
+stop --> ctrl + C
+
+> docker-compose down
